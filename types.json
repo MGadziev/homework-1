@@ -1,7 +1,12 @@
 {
   "string": "Hello World",
-  "boolean": "false",
-  "number": "1812",
-  "null": "ff",
-  "object": "name"
+  "boolean": false,
+  "number": 1812,
+  "null": null,
+  "object": [
+    {
+      "name": "Magomed",
+      "last name": "Gadziev"
+    }
+  ]
 }
